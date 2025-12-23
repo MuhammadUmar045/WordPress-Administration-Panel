@@ -178,7 +178,9 @@ chmod 755 wp-admin/upgrade.php
 
 ## 📄 License
 
-This project is part of WordPress and is licensed under the [GPL v2 or later](https://www.gnu.org/licenses/gpl-2.0.html).
+This project is part of WordPress and is licensed under the GNU General Public License v2.0 or later.
+
+See [LICENSE](LICENSE).
 
 ## 🔗 Related Links
 
